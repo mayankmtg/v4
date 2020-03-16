@@ -2,17 +2,22 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - Python
+  - Golang
+  - Flask
+  - Docker
+  - Elasticsearch
+  - AngularJS
+  - Django
+  - Programming
+  - Photoshop
+  - Kubernetes
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hey! I'm Mayank, CS research enthusiast, engineer, designer and developer based in Bengaluru, India. I am passionate about computers and technology and cherish analysing existing softwares and understanding their underlying algorithms.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I consider myself an adaptable learner with flexible interests in Data Science, Networks and Security, Machine Learning, Artificial Intelligence and programming. Developing websites is something which I enjoy.
 
-Here are a few technologies I've been working with recently:
+I am a graduate from [IIIT-Delhi](https://www.iiitd.ac.in/) and presently work on an intelligent automation facilitation software called Scout at [Soroco India](https://soroco.com/)
+
+Skills:
