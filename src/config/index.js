@@ -6,13 +6,13 @@ module.exports = {
     'Mayank Mohindra, Mayank, Mohindra, mayankmtg, software engineer, software developer, front-end engineer, web developer, javascript, indian, indian coder, coder, developer',
   siteUrl: 'TODO::',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: '',
+  googleVerification: '',
   name: 'Mayank Mohindra',
   location: 'Bengaluru, India',
   email: 'mayankmohindra06@gmail.com',
   github: 'https://github.com/mayankmtg',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
