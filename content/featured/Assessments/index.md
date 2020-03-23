@@ -3,7 +3,7 @@ date: '3'
 title: 'Assessments'
 cover: './assessments.png'
 github: 'https://github.com/mayankmtg/examiz'
-external: 'https://www.behance.net/gallery/93810097/Assessments'
+external: 'http://assessments.iiitd.edu.in/'
 tech:
   - Bootstrap.js
   - Django
